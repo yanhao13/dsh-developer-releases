@@ -1,4 +1,4 @@
-Harness Agent using [grok build](https://x.ai/build) 0.1 + high thinking.
+**Harness Agent using [grok build](https://x.ai/build) 0.1 + high thinking.**
 
 # Code-Change Tracking — 5 Tools Applied to `master@{8day}...master@{7day}`
 
