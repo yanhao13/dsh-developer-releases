@@ -1,1 +1,1 @@
-Harness Agent using grok build 0.1 + high thinking. (Grok Build is now powered by Grok 4.6, xai's newest model — with a native subagent view, Plan Mode integration, mouse support, and a fullscreen terminal UI)
+Harness Agent using [grok build](https://x.ai/build) 0.1 + high thinking.
