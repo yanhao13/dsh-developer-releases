@@ -1,0 +1,3 @@
+## v0.1.2-alpha.1
+
+**Inspector CDP, API transport ownership, PTC rename, and package splits.** The inspector now surfaces full CDP (DOM/Network/Runtime/Worker) with a dev overlay [PRs around #3012](https://github.com/deepseek-ai/deepseek-harness/pull/3012). Connection owns RPC/fetch contracts after ApiProxy removal; new api/* controllers land. 'code' mode becomes 'ptc' across docs/tests (session vocab preserved) [#3074](https://github.com/deepseek-ai/deepseek-harness/pull/3074). 25 new packages (webhook, win32-process, inspector, webworker-*, ui-*, bundles, etc.). Session export owns downloads; file-reference and settings hardened. [Full changelog](https://github.com/deepseek-ai/deepseek-harness/compare/master@{8day}...master@{7day})
